@@ -68,7 +68,7 @@ I’m always open to collaborating on **smart home projects**, **open source**, 
 Reach out via [LinkedIn](https://linkedin.com/in/yourusername) or [email](mailto:jayden@supersmarthome.com) – let's build something cool.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jaypack06&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views" />
   <br/>
   <i>“Automate the boring stuff – then automate more.”</i>
 </p>

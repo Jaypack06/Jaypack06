@@ -57,7 +57,7 @@ I’m passionate about **clean UI**, **automation**, and **real‑world problem 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaypack06&theme=radical" />
 </p>
 
 ---

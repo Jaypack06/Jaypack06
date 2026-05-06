@@ -32,7 +32,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
@@ -44,7 +44,6 @@
 
 I’m passionate about **clean UI**, **automation**, and **real‑world problem solving**. Check out my pinned repos 👇
 
-*(The section below will be automatically filled by GitHub with your pinned repositories – you don't need to edit this line.)*
 
 ---
 
